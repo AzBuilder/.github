@@ -2,9 +2,6 @@
 
 Terrakube is an open source collaboration platform for running remote infraestructure as code operations using terraform that aims to be an alternative for close source tools like Terraform Enterprise. 
 
-## Features
-
-
 ## Useful Resources
 
 - **Installation**: The easy way to install Terrakube is using the [helm chart](https://github.com/AzBuilder/terrakube-helm-chart)
