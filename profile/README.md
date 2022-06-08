@@ -8,3 +8,4 @@ Terrakube is an open source collaboration platform for running remote infraestru
 - **Documentation**: For further details see [terrakube documentation](https://docs.terrakube.org)
 - **Roadmap**: Terrakube is in a Beta state now and we are testing it internally to squash some bugs. See [Terrakube Roadmap](https://github.com/orgs/AzBuilder/projects/3) for more details
 - **Beta Tester**: If you want to be a beta tester feel free to open an issue and we can provide help to install and test Terrakube in your Kubernetes instance
+- **Community**: Join our  [Subreddit](https://www.reddit.com/r/terrakube/)
