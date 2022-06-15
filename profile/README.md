@@ -1,6 +1,6 @@
 ## Introduction
 
-Terrakube is an open source collaboration platform for running remote infraestructure as code operations using terraform that aims to be an alternative for close source tools like Terraform Enterprise. 
+Terrakube is an open source collaboration platform for running remote infrastructure as code operations using terraform that aims to be an alternative for close source tools like Terraform Enterprise. 
 
 ## Useful Resources
 
