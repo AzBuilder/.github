@@ -5,7 +5,7 @@ Terrakube is an open source collaboration platform for running remote infrastruc
 ## Useful Resources
 
 - **Installation**: The easy way to install Terrakube is using the [helm chart](https://github.com/AzBuilder/terrakube-helm-chart)
+- **Local Testing**: [Minikube with HTTPS](https://docs.terrakube.io/getting-started/deployment/minikube-+-https) or [Docker Compose with HTTPS](https://docs.terrakube.io/getting-started/docker-compose)
 - **Documentation**: For further details see [terrakube documentation](https://docs.terrakube.org)
-- **Roadmap**: Terrakube is in a Beta state now and we are testing it internally to squash some bugs. See [Terrakube Roadmap](https://github.com/AzBuilder/terrakube/milestones) for more details
-- **Beta Tester**: If you want to be a beta tester feel free to open an issue and we can provide help to install and test Terrakube in your Kubernetes instance
+- **Roadmap**: See [Terrakube Roadmap](https://github.com/AzBuilder/terrakube/milestones) for more details
 - **Community**: Join our  [Subreddit](https://www.reddit.com/r/terrakube/) and [Slack](https://join.slack.com/t/terrakubeworkspace/shared_invite/zt-2cx6yn95t-2CTBGvsQhBQJ5bfbG4peFg)
